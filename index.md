@@ -5,14 +5,14 @@ title: 勤怠管理システム
 
 * デモサイト  
 
-  - NUXT3 + Vuetify3 + ruby on Rails7 … 公開準備中
+  - [NUXT3 + Vuetify3 + ruby on Rails7](https://k-kon-doh.org/)
   - NEXT + ?Quasar? + Spring boot … 作成中  
   
   
 * 運用  
 
-  サービス時間は、9:00～17:00 を予定しています。  
-  サービス開始時にデータは全て初期化されます。  
+  公開時間は、9:00～12:00、13:00～19:00 です。  
+  公開開始時にデータは全て初期化されます。  
   
   
 * 組織と社員  
