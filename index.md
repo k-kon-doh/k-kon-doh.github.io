@@ -6,7 +6,9 @@ title: 勤怠管理システム
 * デモサイト  
 
   - [NUXT3 + Vuetify3 + ruby on Rails7](https://k-kon-doh.org/)
-  - NEXT + ?Quasar? + Spring boot … 作成中  
+  - [NEXT13 + MUI + ruby on Rails7](https://k-kon-doh.org/next)
+    + クライアントサイド(NEXT)を公開しました。 
+    + サーバーサイド(Spring boot)は、作成中です。 
   
   
 * 運用  
